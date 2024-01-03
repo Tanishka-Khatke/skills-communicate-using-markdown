@@ -1,1 +1,1 @@
-# About to make changes in index.html
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
